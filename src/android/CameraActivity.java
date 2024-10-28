@@ -19,8 +19,6 @@ import android.widget.RelativeLayout;
 import java.io.ByteArrayOutputStream;
 import java.util.List;
 
-import javax.swing.text.View;
-
 public class CameraActivity extends Fragment {
     private static final int FLASH_OFF = 0;
     private static final int FLASH_ON = 1;
